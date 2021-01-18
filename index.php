@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
 <title>W3.CSS Template</title>
@@ -342,3 +343,8 @@ function likeFunction(x) {
 
 </body>
 </html>
+=======
+<h1>
+Inicio dos testes
+</h1>
+>>>>>>> 344e32cd1e08143428913ae00ba779b3e6e5fe93
